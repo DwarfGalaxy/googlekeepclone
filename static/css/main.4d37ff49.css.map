@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4d37ff49.css","mappings":"AAAA,KACE,wBACF,CACA,aACE,SAAS,CACT,cACF","sources":["App.css"],"sourcesContent":["body{\n  background-color: rgb(4, 107, 107);\n}\n#trash:hover{\n  color:red;\n  cursor: pointer;\n}"],"names":[],"sourceRoot":""}
